@@ -3,17 +3,20 @@
 # HyunMo Jung
 
 </div>
+<br />
 
 ## 👋 Profile
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 🖱 &nbsp; ABOUT ME ](https://lacy-fact-e5f.notion.site/683732b00e184c4dac7f1b253c59f647)
+
+<br />
 
 ## 🔗 Connect
 
 - &nbsp; **Email** &nbsp;&nbsp; &nbsp; wjdgusaho@gmail.com &nbsp; | &nbsp; wjdgusaho@naver.com
 - &nbsp; **Tistory** &nbsp;&nbsp; https://wjdgusaho.tistory.com &nbsp;(준비중)
 - &nbsp; **Github** &nbsp;&nbsp; https://github.com/wjdgusaho
-  <br>
+  <br />
 
 ## 📚 Technical Skills
 
@@ -58,7 +61,7 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/erdCloude-AECBFA?style=for-the-badge&logo=erdCloude&logoColor=white" />
 </div>
-
+<br />
 <hr/>
 
 | Git Status                                                                                                                                                                                                                                                 | Algorithm Solved                                                                                                  |

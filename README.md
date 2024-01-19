@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> HyunMo Jung </h1>
+<div style="font-size: 60px;">HyunMo Jung</div>
 
 </div>
 <br />

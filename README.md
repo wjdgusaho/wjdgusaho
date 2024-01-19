@@ -1,6 +1,6 @@
 <div align="center">
 
-### HyunMo Jung
+# HyunMo Jung
 
 </div>
 <br />
